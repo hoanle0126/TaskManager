@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "679678340795",
+    "firebase_url": "https://task-management-be120-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "task-management-be120",
+    "storage_bucket": "task-management-be120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679678340795:android:d41573ab77b4e2ab33039e",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZY71MJoIxZ_qBVjcq5RDQaVHxmYVYemA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
